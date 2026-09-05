@@ -1,4 +1,10 @@
                                           Cloud & DevOps Engineer
                         🔭 I’m currently working on **AWS Cloud Infrastructure & DevOps Projects**
-https://github.com/rajdeepaws2025#devops-tools
-https://www.docker.com/
+[![Docker](https://shields.io)](https://docker.com)
+
+[![Kubernetes](https://shields.io)](https://kubernetes.io)
+
+[![AWS](https://shields.io)](https://amazon.com)
+
+[![GitHub Actions](https://shields.io)](https://github.com)
+
